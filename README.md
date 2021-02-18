@@ -32,7 +32,7 @@ And more...
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ruben_Terre-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/rubenterrelameiro)
 [![Behance](https://img.shields.io/badge/behance-Ruben_Terre-0288d1?style=for-the-badge&logo=behance&logoColor=white&labelColor=101010)](https://www.behance.net/rubenterre)
-[![Instagram](https://img.shields.io/badge/Instagram-@mrubenterre-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/rubenterre.studiodesign/)
+[![Instagram](https://img.shields.io/badge/Instagram-@rubenterre.studiodesign-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/rubenterre.studiodesign/)
 [![Web](https://img.shields.io/badge/My_Website-Rubenterre.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://rubenterre.com)
 
 
