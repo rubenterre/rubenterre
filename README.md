@@ -1,7 +1,7 @@
 Hello, my name is Rubén Terré
 ### Graphic & Web designer
 
-![https://github.com/rubenterre](https://raw.githubusercontent.com/rubenterre/rubenterre/master/rubenterre_github_profile.png)
+![https://github.com/rubenterre](https://raw.githubusercontent.com/rubenterre/rubenterre/master/rubenterre_github_profile2.png)
 
 I am [**Rubén Terré**](https://rubenterre.com), graphic and web designer.
 
