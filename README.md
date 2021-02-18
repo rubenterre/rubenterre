@@ -10,10 +10,10 @@ Today there is a large number of media and supports in which we see graphic desi
 It is for this reason that a good designer is so decisive, not only because it makes a difference with the competition, but because a good image speaks of us, our values ​​and what we want to be. It makes us more attractive, gives us more credibility and helps us improve our visibility. It is like a good poetry that with a few words is capable of transmitting the ineffable and captivating those who perceive it.
 
 ## Skills:
-[![Svelte](https://img.shields.io/badge/Svelte-000000?style=for-the-badge&logo=svelte&logoColor=white&labelColor=orange)]()
-[![Wordpress](https://img.shields.io/badge/Wordpress-1DA1F2?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=101010)]()
-[![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white&labelColor=yellow)]()
-[![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white&labelColor=red)]()
+[![Svelte](https://img.shields.io/badge/Svelte-ff6f00?style=for-the-badge&logo=svelte&logoColor=white&labelColor=101010)]()
+[![Wordpress](https://img.shields.io/badge/Wordpress-0277bd?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=101010)]()
+[![HTML5](https://img.shields.io/badge/HTML5-ffff00?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
+[![CSS3](https://img.shields.io/badge/CSS3-ffab00?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 </br>
 [![Sketch](https://img.shields.io/badge/Sketch-fb8c00?style=for-the-badge&logo=sketch&logoColor=white&labelColor=101010)]()
