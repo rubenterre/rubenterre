@@ -1,7 +1,7 @@
 Hello, my name is Rubén Terré
 ### Graphic & Web designer
 
-![https://github.com/mouredev](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_github_profile.png)
+![https://github.com/rubenterre](https://raw.githubusercontent.com/rubenterre/rubenterre/master/rubenterre_github_profile.png)
 
 I am [**Rubén Terré**](https://rubenterre.com), graphic and web designer.
 
@@ -13,7 +13,7 @@ It is for this reason that a good designer is so decisive, not only because it m
 [![Svelte](https://img.shields.io/badge/Svelte-000000?style=for-the-badge&logo=svelte&logoColor=white&labelColor=orange)]()
 [![Wordpress](https://img.shields.io/badge/Wordpress-1DA1F2?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=101010)]()
 [![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white&labelColor=yellow)]()
-[![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white&labelColor=red]()
+[![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white&labelColor=red)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 </br>
 [![Sketch](https://img.shields.io/badge/Sketch-fb8c00?style=for-the-badge&logo=sketch&logoColor=white&labelColor=101010)]()
