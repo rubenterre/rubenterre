@@ -41,6 +41,8 @@ Me dedico a enseñar desarrollo web y a ayudar a otros a construir proyectos mod
 [![Moodle](https://img.shields.io/badge/Moodle-F98012?style=for-the-badge&logo=moodle&logoColor=white&labelColor=101010)]()
 [![Prezi](https://img.shields.io/badge/Prezi-3181FF?style=for-the-badge&logo=prezi&logoColor=white&labelColor=101010)]()
 [![Google_Meet](https://img.shields.io/badge/Google_Meet-00897B?style=for-the-badge&logo=googlemeet&logoColor=white&labelColor=101010)]()
+[![Zoom](https://img.shields.io/badge/Zoom-0B5CFF?style=for-the-badge&logo=zoom&logoColor=white&labelColor=101010)]()
+[![Google_Classroom](https://img.shields.io/badge/Google_Classroom-1E8E3E?style=for-the-badge&logo=googleclassroom&logoColor=white&labelColor=101010)]()
 
 ---
 
