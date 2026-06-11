@@ -1,42 +1,53 @@
-Hello, my name is Rubén Terré
-### Graphic & Web designer
+# Hola, soy Rubén Terré 👋
+### Desarrollador web, Diseñador gráfico & Docente | Frontend developer
 
-![https://github.com/rubenterre](https://raw.githubusercontent.com/rubenterre/rubenterre/master/rubenterre_github_profile.png)
+![Rubén Terré – Desarrollador web y Docente](https://raw.githubusercontent.com/rubenterre/rubenterre/master/rubenterre_github_profile.png)
 
-I am [**Rubén Terré**](https://rubenterre.com), graphic and web designer.
+Soy [**Rubén Terré**](https://rubenterre.me), desarrollador web, profesor y diseñador gráfico en Santiago de Compostela.
 
-Today there is a large number of media and supports in which we see graphic design works on a daily basis. In fact, these are so abundant that we often hardly even realize they are there. They do not have to be large signs, simply the letters on a bag or the structure of an invoice are proof of that omnipresent presence of design.
+Me dedico a enseñar desarrollo web y a ayudar a otros a construir proyectos modernos y reales. Mi formación en diseño gráfico hace que me importe tanto cómo se ve algo como cómo funciona — código limpio, interfaces rápidas y diseño con intención, todo en uno.
 
-It is for this reason that a good designer is so decisive, not only because it makes a difference with the competition, but because a good image speaks of us, our values ​​and what we want to be. It makes us more attractive, gives us more credibility and helps us improve our visibility. It is like a good poetry that with a few words is capable of transmitting the ineffable and captivating those who perceive it.
+---
 
-## Skills:
-[![Svelte](https://img.shields.io/badge/Svelte-ff6f00?style=for-the-badge&logo=svelte&logoColor=white&labelColor=101010)]()
-[![Wordpress](https://img.shields.io/badge/Wordpress-0277bd?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=101010)]()
-[![HTML5](https://img.shields.io/badge/HTML5-ffff00?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
-[![CSS3](https://img.shields.io/badge/CSS3-ffab00?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
-[![SASS](https://img.shields.io/badge/SASS-ff69b4?style=for-the-badge&logo=sass&logoColor=ffffff&labelColor=101010)]()
+## 🛠 Habilidades
+
+**Frontend y Frameworks**
+
+[![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white&labelColor=101010)]()
+[![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-</br>
-[![Sketch](https://img.shields.io/badge/Sketch-fb8c00?style=for-the-badge&logo=sketch&logoColor=white&labelColor=101010)]()
-[![Photoshop](https://img.shields.io/badge/Photoshop-4fc3f7?style=for-the-badge&logo=adobe-photoshop&logoColor=white&labelColor=101010)]()
-[![Illustrator](https://img.shields.io/badge/Illustrator-e65100?style=for-the-badge&logo=adobe-illustrator&logoColor=white&labelColor=101010)]()
-[![InDesign](https://img.shields.io/badge/Indesign-d81b60?style=for-the-badge&logo=adobe-indesign&logoColor=white&labelColor=101010)]()
-[![AfterEffects](https://img.shields.io/badge/After_Effects-4a148c?style=for-the-badge&logo=adobe-after-effects&logoColor=white&labelColor=101010)]()
-</br>
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
-[![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
-</br>
-And more...
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white&labelColor=101010)]()
+[![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white&labelColor=101010)]()
+[![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=101010)]()
 
-## Find me at:
+**Backend y Herramientas**
+
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
+
+**Diseño**
+
+[![Sketch](https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=white&labelColor=101010)]()
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=101010)]()
+[![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&labelColor=101010&color=FF9A00&logoColor=white)]()
+[![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&labelColor=101010&color=31A8FF&logoColor=white)]()
+[![InDesign](https://img.shields.io/badge/InDesign-FF3366?style=for-the-badge&labelColor=101010&color=FF3366&logoColor=white)]()
+[![After_Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&labelColor=101010&color=9999FF&logoColor=white)]()
+
+---
+
+## 🌐 Encuéntrame en
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ruben_Terre-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/rubenterrelameiro)
-[![Behance](https://img.shields.io/badge/behance-Ruben_Terre-0288d1?style=for-the-badge&logo=behance&logoColor=white&labelColor=101010)](https://www.behance.net/rubenterre)
+[![Behance](https://img.shields.io/badge/Behance-Ruben_Terre-1769FF?style=for-the-badge&logo=behance&logoColor=white&labelColor=101010)](https://www.behance.net/rubenterre)
 [![Instagram](https://img.shields.io/badge/Instagram-@rubenterre.studiodesign-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/rubenterre.studiodesign/)
-[![Web](https://img.shields.io/badge/My_Website-Rubenterre.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://rubenterre.com)
+[![Web](https://img.shields.io/badge/rubenterre.me-Mi_Portfolio-14a1f0?style=for-the-badge&logo=safari&logoColor=white&labelColor=101010)](https://rubenterre.me)
 
 
-## Contact me:
+---
 
-[![Email](https://img.shields.io/badge/info@rubenterre.com-my_personal_email_(slow_response)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:info@rubenterre.com)
+## ✉️ Contacto
+
+[![Email](https://img.shields.io/badge/info@rubenterre.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:info@rubenterre.com)
