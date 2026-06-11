@@ -11,7 +11,7 @@ Me dedico a enseñar desarrollo web y a ayudar a otros a construir proyectos mod
 
 ## 🛠 Habilidades
 
-**Frontend y Frameworks**
+**Frontend y frameworks**
 
 [![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white&labelColor=101010)]()
 [![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white&labelColor=101010)]()
@@ -21,7 +21,7 @@ Me dedico a enseñar desarrollo web y a ayudar a otros a construir proyectos mod
 [![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white&labelColor=101010)]()
 [![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=101010)]()
 
-**Backend y Herramientas**
+**Backend y herramientas**
 
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
@@ -35,6 +35,12 @@ Me dedico a enseñar desarrollo web y a ayudar a otros a construir proyectos mod
 [![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&labelColor=101010&color=31A8FF&logoColor=white)]()
 [![InDesign](https://img.shields.io/badge/InDesign-FF3366?style=for-the-badge&labelColor=101010&color=FF3366&logoColor=white)]()
 [![After_Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&labelColor=101010&color=9999FF&logoColor=white)]()
+
+**Docencia**
+
+[![Moodle](https://img.shields.io/badge/Moodle-F98012?style=for-the-badge&logo=moodle&logoColor=white&labelColor=101010)]()
+[![Prezi](https://img.shields.io/badge/Prezi-3181FF?style=for-the-badge&logo=prezi&logoColor=white&labelColor=101010)]()
+[![Google_Meet](https://img.shields.io/badge/Google_Meet-00897B?style=for-the-badge&logo=googlemeet&logoColor=white&labelColor=101010)]()
 
 ---
 
