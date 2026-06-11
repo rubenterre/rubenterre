@@ -5,7 +5,7 @@
 
 Soy [**Rubén Terré**](https://rubenterre.me), desarrollador web, profesor y diseñador gráfico en Santiago de Compostela.
 
-Me dedico a enseñar desarrollo web y a ayudar a otros a construir proyectos modernos y reales. Mi formación en diseño gráfico hace que me importe tanto cómo se ve algo como cómo funciona — código limpio, interfaces rápidas y diseño con intención, todo en uno.
+Me dedico a enseñar desarrollo web y a ayudar a otros a construir proyectos modernos y reales. Mi formación en diseño gráfico hace que me importe tanto cómo se ve algo que el cómo funciona — código limpio, interfaces rápidas y diseño con intención, todo en uno.
 
 ---
 
